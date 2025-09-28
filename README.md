@@ -110,7 +110,7 @@ Key Learnings
 
 Conclusion
 
-Carbon AI demonstrates end-to-end AI workflow design, modular architecture, and practical automation skills.
+AI Agent demonstrates end-to-end AI workflow design, modular architecture, and practical automation skills.
 This project highlights the ability to plan, implement, and deliver real-world solutions, making it both production-ready and interviewer-friendly.
 
 Built with dedication by    
