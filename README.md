@@ -1,4 +1,4 @@
-# Carbon AI – Intelligent Bank Statement Parser Agent
+# AI Agent  – Intelligent Bank Statement Parser Agent
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python" />
@@ -7,14 +7,13 @@
   <img src="https://img.shields.io/badge/Focus-AI%20and%20Automation-orange?style=for-the-badge" />
 </p>
 
----
-<img width="1019" height="577" alt="Screenshot 2025-09-28 192708" src="https://github.com/user-attachments/assets/80476677-0f32-44e7-846b-f730d804fa0e" />
+
 
 ## Introduction  
 
 Bank statements are one of the most common documents in finance, but manually extracting, validating, and formatting the data is slow and error-prone.  
 
-**Carbon AI** is an autonomous parsing agent that can:  
+**AI Agent** is an autonomous parsing agent that can:  
 
 - Read PDF statements (bank-specific formats)  
 - Extract structured transaction data  
@@ -79,12 +78,12 @@ pip install -r requirements.txt
 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/Carbon-AI.git
-cd Carbon-AI
+git clone https://github.com/pavanbr593/AI-Agent-Challenge
+cd AI Agent Challenge 
 
 
 Run the agent:
-python agent.py --target icici
+python agent_v2.py --target icici
 
 
 Launch the Streamlit UI (optional):
@@ -95,15 +94,24 @@ Run tests:
 pytest
 
 Demo
+	•	Visualize the parsing process using interactive Streamlit UI
+	•	Automatically extract and validate bank statement data
+	•	Demonstrate retry and self-correcting mechanisms for robust parsing
+
 Key Learnings
-Designing autonomous agents with retry/self-correcting loops
-Handling inconsistent PDF layouts
-Building extensible, modular architectures
-Importance of validation, testing, and clean documentation
+	•	Designing autonomous AI agents with retry and self-correcting loops
+	•	Handling inconsistent PDF layouts across different banks
+	•	Building modular and extensible architectures for scalability
+	•	Ensuring data accuracy through validation and testing
+	•	Documenting projects clearly for recruiters and interviewers
+
+⸻
+
 
 Conclusion
 
-Carbon AI showcases practical AI workflow design, modular architecture, and automation skills.
-It demonstrates the ability to plan, implement, and deliver real-world solutions, making it a strong project for HRs and interviewers to evaluate.
+Carbon AI demonstrates end-to-end AI workflow design, modular architecture, and practical automation skills.
+This project highlights the ability to plan, implement, and deliver real-world solutions, making it both production-ready and interviewer-friendly.
+
 Built with dedication by    
-                           `~Vc Dhanush
+                           `~ Pavan Bendre R 
